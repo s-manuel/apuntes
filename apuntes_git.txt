@@ -12,16 +12,20 @@ git diff
 git add
 git pull
 
-// Guardar
+// Guardar comint = agrupar los cambios
 // 1.- Verficar el tdo dl repositorio 
 git status
 
 // stallin arear = area intermedia
 
 // agregar todo con punto (archivos)
-git add. 
-// agregar archivvo uno por uno 
+git add . 
+// agregar archivo uno por uno 
 git add nombre_archivo
 
-//
-comint = agruparaa loss cambios
+git commint -am "Apuntes básicos de git"
+
+// Historiral de cambios
+git log 
+
+
