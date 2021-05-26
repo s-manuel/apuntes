@@ -1,0 +1,27 @@
+// COCNFIGURAR DATOS DE GIT
+
+//Configurar nombre
+git config --global user.name 
+//Configurar email
+git config --global user.email
+// iniciar un repositorio
+git init
+// ver el estdo 
+git status
+git diff
+git add
+git pull
+
+// Guardar
+// 1.- Verficar el tdo dl repositorio 
+git status
+
+// stallin arear = area intermedia
+
+// agregar todo con punto (archivos)
+git add. 
+// agregar archivvo uno por uno 
+git add nombre_archivo
+
+//
+comint = agruparaa loss cambios
